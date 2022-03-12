@@ -39,4 +39,4 @@ Sample text here
   
 # [Map of Vaccine Clinics](map)
   
-  Find the clinic closest to you!
+  Find the nearest clinic to you!
