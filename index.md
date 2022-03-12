@@ -14,4 +14,4 @@ Sample text here
 #### FAQ
   
 # [Map of Vaccine Clinics](map) 
-  Find the nearest clinic to you!
+#### Find the nearest clinic to you!
