@@ -37,7 +37,7 @@ Sample text here
 * List
 * List
   
-# [Anecdotal Experinces](forum)
+# [Anecdotal Experiences](forum)
   
   Sample text here
   
