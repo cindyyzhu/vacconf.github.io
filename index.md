@@ -1,4 +1,4 @@
-## [General Vaccine Information](info)
+# [General Vaccine Information](info)
 
 ### Benefits of the Vaccine
   
@@ -11,7 +11,7 @@
   
   Sample text here
  
-### Differnt Types of Vaccines
+### Different Types of Vaccines
 
 Sample text here
   
@@ -33,10 +33,10 @@ Sample text here
 * List
 * List
   
-## [Anecdotal Experinces](forum)
+# [Anecdotal Experinces](forum)
   
   Sample text here
   
-## [Map of Vaccine Clinics](map)
+# [Map of Vaccine Clinics](map)
   
   Find the clinic closest to you!
