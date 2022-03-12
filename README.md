@@ -1,1 +1,1 @@
-# vacconf.github.io
+# vacconf
