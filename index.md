@@ -11,7 +11,7 @@ Sample text here
 #### What to Consider
 
 # [Anecdotal Experiences](forum)
-  #### FAQ
+#### FAQ
   
 # [Map of Vaccine Clinics](map) 
   Find the nearest clinic to you!
