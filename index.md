@@ -1,24 +1,44 @@
-# Welcome to the Vaccine Confidence 
-# Vaccine for Seniors
+# Welcome to the Vaccine Confidence for Seniors
 
-General Vaccine Information
+## [General Vaccine Information](info)
+
+### Benefits of the Vaccine
   
-  Benefits of the Vaccine
+* List
+* List
+* List
+* List
   
-  How Vacccines Work
+### How Vacccines Work
   
-  Differnt Types of Vaccines
+  Sample text here
+ 
+### Differnt Types of Vaccines
+
+Sample text here
   
-  What to Consider
+![Different Types of Vaccines](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fimmu-11-579250-g004.jpg/300px-Fimmu-11-579250-g004.jpg)
   
+### What to Consider
   
-Question and Answers
+  Sample text here
+
+* List
+* List
+* List
   
-  Experinces
+### FAQ
   
-  Question and Answers
+  Sample text here 
   
+* List
+* List
+* List
   
-Map of Vaccine CLinics
+## [Anecdotal Experinces](forum)
   
-  Find CLinic Closest to You
+  Sample text here
+  
+## [Map of Vaccine Clinics](map)
+  
+  Find the clinic closest to you!
