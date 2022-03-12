@@ -1,6 +1,4 @@
-## Welcome to Vaccine Confidence 4 Seniors! 
-
-Sample text here
+## Welcome to Vaccine Confidence 4 Seniors!
 
 # [General Vaccine Information](info)
 
