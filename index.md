@@ -1,23 +1,27 @@
+# Welcome to Vaccine Confidence 4 Seniors! 
+
+Sample text here
+
 # [General Vaccine Information](info)
 
-### Benefits of the Vaccine
+#### Benefits of the Vaccine
   
 * List
 * List
 * List
 * List
   
-### How Vacccines Work
+#### How Vacccines Work
   
   Sample text here
  
-### Different Types of Vaccines
+#### Different Types of Vaccines
 
 Sample text here
   
 ![Different Types of Vaccines](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fimmu-11-579250-g004.jpg/300px-Fimmu-11-579250-g004.jpg)
   
-### What to Consider
+#### What to Consider
   
   Sample text here
 
@@ -25,7 +29,7 @@ Sample text here
 * List
 * List
   
-### FAQ
+#### FAQ
   
   Sample text here 
   
