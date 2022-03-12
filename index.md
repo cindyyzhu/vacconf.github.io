@@ -1,5 +1,3 @@
-# Welcome to the Vaccine Confidence for Seniors
-
 ## [General Vaccine Information](info)
 
 ### Benefits of the Vaccine
