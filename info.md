@@ -27,5 +27,7 @@
 ### Nearest vaccine locations
 [Click me](map)
 
+### How to get vaccinated
+![Look at the steps](https://covid19-sciencetable.ca/wp-content/uploads/2021/06/Figure-1-2-1024x785.png)
 
 [Back to homepage](index)
