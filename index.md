@@ -9,7 +9,7 @@
 #### What to Consider
 
 # [Anecdotal Experiences](forum)
-#### FAQ
+#### Forum
   
 # [Map of Vaccine Clinics](map) 
 #### Find the nearest clinic to you!
